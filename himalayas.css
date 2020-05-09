@@ -1,0 +1,9 @@
+.image{
+	position: absolute;	
+	height:110%;
+	width:630px;
+	border:1px solid black;
+	}
+.text{
+	text-align: justify;
+}

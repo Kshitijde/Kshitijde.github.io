@@ -1,0 +1,8 @@
+.image{
+	height: 65%;
+	border:1px solid black;
+}
+.text{
+	text-align: justify;
+	right:5px;
+}
