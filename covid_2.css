@@ -1,0 +1,125 @@
+.image{
+	position: absolute; 
+	top:315px;
+	left:20px;
+	width: 50%;
+	height: 418px;
+	border:1px solid black;
+}
+
+.bottom{
+	position: absolute;
+	top:270px;
+	left:315px;	
+	color:blue;
+}
+.navbar navbar-expand-sm bg-primary navbar-dark{
+	position: sticky;
+}
+.graph{
+	position: absolute;
+	top:77px;
+	left:0px;
+	width: 100%;
+	height :185px;
+}
+.upper-text{
+	position: absolute;
+	top:55px;	
+	left:25px;
+}
+.sub-script{
+	position: absolute;
+	top:140px;
+	left:190px;
+	color:darkblue;
+}
+.family-time{
+	position: absolute;
+	top:315px;
+	left:700px;
+	right:20px;
+	text-align: justify;
+}
+
+.dolphins{
+	position:absolute;
+	width: 390px;
+	height:260px;
+	top:780px;
+	left:20px;
+	border:1px solid black;
+}
+.ozone-layer{
+	position: absolute;
+	width: 390px;
+	height:260px;
+	top:780px;
+	right:20px;
+	border:1px solid black;
+}
+.himalayas{	
+	position: absolute;
+	width: 390px;
+	height:260px;
+	top:1130px;
+	left:445px;
+	border:1px solid black;
+}
+.pigeons{
+	position: absolute;
+	width: 390px;
+	height:260px;
+	top:780px;
+	left:445px;
+	border:1px solid black;
+}
+.cleaner-air{
+	position: absolute;
+	width: 390px;
+	height:260px;
+	top:1130px;
+	left:20px;
+	border:1px solid black;
+}
+.yamuna{
+	position: absolute;
+	width: 390px;
+	height:260px;
+	top:1130px;
+	right:20px;
+	border:1px solid black;
+}
+.dolphins-text{
+	position: absolute;
+	top:1050px;
+	left:55px;
+}
+.ozone-layer-text{
+	position: absolute;
+	top:1050px;
+	right:90px;
+}
+.himalayas-text{
+	position: absolute;
+	top:1400px;
+	left:520px;
+	color: rgb(255,255,255);
+}
+.pigeons-text{
+	position: absolute;
+	top:1050px;
+	right:560px;
+	color:black;
+}
+.cleaner-air-text{
+	position: absolute;
+	top:1400px;
+	left:155px;
+}
+.yamuna-text{
+	position: absolute;
+	top:1400px;
+	right:135px;
+	color: rgb(255,255,255);
+}
